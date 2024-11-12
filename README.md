@@ -1,6 +1,6 @@
 -👨‍💻 SAP Associate Consultant
 
--💼 Maventic Innovative Solutions Pvt Ltd
+-💼 Infosys
 
 -🚀 Expertise: ABAP on HANA | SAP UI5 | SAP Fiori | SAP OData
 
